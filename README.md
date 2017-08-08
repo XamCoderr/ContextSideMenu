@@ -33,7 +33,8 @@ animationDuration is to be used for animation speed in seconds.
 
 iOS 7,
 iOS 8,
-iOS 9
+iOS 9,
+iOS 10
 
 ## License
 

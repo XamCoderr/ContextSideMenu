@@ -5,6 +5,8 @@ Animated side menu for Xamarin.iOS.
 
 Cloned For Xamarin.iOS from [Yalantis](https://github.com/Yalantis/Context-Menu.iOS)
 
+![ContextMenu](https://www.dropbox.com/s/5kd5y1kcjndoci2/contextMenu.gif?dl=0)
+
 ## Usage
 
 ### Xamarin.iOS

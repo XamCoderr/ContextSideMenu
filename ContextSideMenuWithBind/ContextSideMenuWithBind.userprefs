@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FB9588B3-04A3-4816-BE1B-7D6C8F71A36D}|Default">
+  <MonoDevelop.Ide.ItemProperties.ContextSideMenuWithBind PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContextSideMenuWithBind/ViewController.cs">
+    <Files>
+      <File FileName="ContextSideMenuWithBind/ViewController.cs" Line="136" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

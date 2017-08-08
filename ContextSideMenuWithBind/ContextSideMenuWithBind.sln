@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextSideMenuWithBind", "ContextSideMenuWithBind\ContextSideMenuWithBind.csproj", "{FB9588B3-04A3-4816-BE1B-7D6C8F71A36D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB9588B3-04A3-4816-BE1B-7D6C8F71A36D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FB9588B3-04A3-4816-BE1B-7D6C8F71A36D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FB9588B3-04A3-4816-BE1B-7D6C8F71A36D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FB9588B3-04A3-4816-BE1B-7D6C8F71A36D}.Release|iPhone.Build.0 = Release|iPhone
+		{FB9588B3-04A3-4816-BE1B-7D6C8F71A36D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FB9588B3-04A3-4816-BE1B-7D6C8F71A36D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{FB9588B3-04A3-4816-BE1B-7D6C8F71A36D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FB9588B3-04A3-4816-BE1B-7D6C8F71A36D}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

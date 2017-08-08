@@ -5,7 +5,15 @@ Animated side menu for Xamarin.iOS.
 
 Cloned For Xamarin.iOS from [Yalantis](https://github.com/Yalantis/Context-Menu.iOS)
 
-![ContextMenu](https://www.dropbox.com/s/5kd5y1kcjndoci2/contextMenu.gif?dl=0)
+
+<table>
+<tr>
+<td width="24.5%" valign="top" align="justify">
+<img src="https://github.com/XamCoderr/ContextSideMenu/blob/master/ContextSideMenuWithBind/ScreenShots/contextMenu.gif?raw=true">
+</td>
+</tr>
+</table>
+
 
 ## Usage
 

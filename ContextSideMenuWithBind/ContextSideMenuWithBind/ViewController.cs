@@ -68,8 +68,8 @@ namespace ContextSideMenuWithBind
 				//optional - implement custom YALContextMenuTableView custom protocol
 				//  this.contextMenuTableView.YalDelegate = this;
 				//optional - implement menu items layout
-				this.contextMenuTableView.MenuItemsSide = 2;
-				this.contextMenuTableView.MenuItemsAppearanceDirection = 2;
+                this.contextMenuTableView.MenuItemsSide = MenuItemsSide.Right;
+                this.contextMenuTableView.MenuItemsAppearanceDirection = MenuItemsAppearanceDirection.TopToBottom;
 
 				//register nib
 				//  this.contextMenuTableView.RegisterNibForCellReuse(UINib.FromName("ContextMenuCell", NSBundle.MainBundle), menuCellIdentifier);
